@@ -4,10 +4,15 @@ With the ongoing evolution of smart manufacturing, achieving high-precision and 
 
 ## Requirements
 tensorflow-gpu == 2.6.0
+
 keras == 2.6.0
+
 scipy ==1.6.3
+
 scikit-learn ==0.24.2
+
 numpy == 1.21.0 
+
 ## Dataset
 We uploaded the processed dataset to：https://pan.baidu.com/s/1ggosjgBudOOlie97KTGMJw 
 Extraction Code：afy5
